@@ -6,7 +6,7 @@ Ce dépôt contient les questions et les réponses de la page d'aide de l'applic
 
 Ouvrez ce dossier avec Claude et dites ce que vous voulez : « ajoute une question sur la facture qui ne part pas ». Claude lit `CLAUDE.md`, écrit la réponse selon nos règles (court, vouvoiement, un seul geste), crée le fichier dans `questions/` et lance la vérification.
 
-Relisez le texte qu'il propose. S'il vous convient, demandez-lui de l'envoyer sur `main`. La page d'aide est à jour quelques minutes plus tard.
+Relisez le texte qu'il propose. S'il vous convient, demandez-lui de l'envoyer sur `main`. Le fichier est publié en quelques minutes, et l'application le relit au plus tard une heure après : la page d'aide est à jour dans l'heure.
 
 ## Modifier ou supprimer une question
 
