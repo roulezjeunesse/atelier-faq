@@ -1,0 +1,55 @@
+# Publie la FAQ sur GitHub Pages à chaque envoi sur main (ou à la demande).
+#
+# Les étapes se suivent et chacune doit réussir pour que la suivante ait lieu.
+# Si les tests ou la validation échouent, le déploiement n'a pas lieu : c'est le
+# comportement voulu. La FAQ déjà en ligne reste telle quelle, et rien d'invalide
+# n'arrive chez les réparateurs.
+name: Publier la FAQ
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Une seule publication à la fois. On laisse finir celle qui est en cours.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Tester les règles de validation
+        run: node --test
+
+      - name: Valider les questions et construire dist/
+        run: node scripts/build.mjs
+
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Envoyer dist/
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Déployer
+        id: deploiement
+        uses: actions/deploy-pages@v4

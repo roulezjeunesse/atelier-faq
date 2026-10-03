@@ -1,0 +1,8 @@
+[
+  { "id": "rendez-vous", "titre": "Rendez-vous" },
+  { "id": "demandes", "titre": "Demandes" },
+  { "id": "clients", "titre": "Clients" },
+  { "id": "factures", "titre": "Factures" },
+  { "id": "reservation", "titre": "Votre page de réservation" },
+  { "id": "compte", "titre": "Votre compte" }
+]
