@@ -1,7 +1,7 @@
 ---
 question: Comment facturer, et corriger une facture ?
 categorie: factures
-ordre: 1
+ordre: 2
 mots: facture, avoir, émettre, pdf, payé, paiement, brouillon, corriger, annuler
 ---
 Une facture part d’un rendez-vous : ouvrez-le depuis l’**Agenda**, appuyez sur **Terminer**, puis facturez. Vous pouvez l’enregistrer en brouillon et la reprendre plus tard.

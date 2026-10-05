@@ -12,6 +12,10 @@
     "titre": "Demandes et page de réservation"
   },
   {
+    "id": "activite",
+    "titre": "Activité et messages"
+  },
+  {
     "id": "clients",
     "titre": "Clients et catalogue"
   },
