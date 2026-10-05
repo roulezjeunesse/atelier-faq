@@ -30,7 +30,7 @@ mots: agenda, introuvable, disparu
 La réponse, en Markdown.
 ```
 
-- `categorie` : un `id` de `categories.json` (rendez-vous, demandes, clients, factures, reservation, compte). Ajoutez une catégorie seulement si on vous le demande, et ne changez jamais l'`id` d'une catégorie existante.
+- `categorie` : un `id` de `categories.json` (compte, rendez-vous, reservation, clients, factures, depannage). Ajoutez une catégorie seulement si on vous le demande, et ne changez jamais l'`id` d'une catégorie existante.
 - `ordre` et `mots` sont facultatifs. `mots` aide la recherche : ce qu'un réparateur taperait.
 - Le nom du fichier, sans `.md`, est l'identifiant de la question : minuscules sans accent, chiffres et tirets (`client-rendez-vous-introuvable.md`). Il sert d'ancre dans l'adresse `/aide#nom-du-fichier`. Ne renommez jamais un fichier existant. Pour changer de sujet, créez une nouvelle question et supprimez l'ancienne.
 - Rien de ce qui est dans `exemples/` n'est publié. Une réponse qui porte encore « EXEMPLE, à ne pas publier » est refusée par la validation.

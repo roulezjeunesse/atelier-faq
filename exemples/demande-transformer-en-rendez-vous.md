@@ -1,6 +1,6 @@
 ---
 question: Comment transformer une demande en rendez-vous ?
-categorie: demandes
+categorie: reservation
 mots: demande, accepter, créneau
 ---
 EXEMPLE, à ne pas publier.

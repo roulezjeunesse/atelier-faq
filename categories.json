@@ -1,8 +1,26 @@
 [
-  { "id": "rendez-vous", "titre": "Rendez-vous" },
-  { "id": "demandes", "titre": "Demandes" },
-  { "id": "clients", "titre": "Clients" },
-  { "id": "factures", "titre": "Factures" },
-  { "id": "reservation", "titre": "Votre page de réservation" },
-  { "id": "compte", "titre": "Votre compte" }
+  {
+    "id": "compte",
+    "titre": "Compte et connexion"
+  },
+  {
+    "id": "rendez-vous",
+    "titre": "Agenda et rendez-vous"
+  },
+  {
+    "id": "reservation",
+    "titre": "Demandes et page de réservation"
+  },
+  {
+    "id": "clients",
+    "titre": "Clients et catalogue"
+  },
+  {
+    "id": "factures",
+    "titre": "Factures"
+  },
+  {
+    "id": "depannage",
+    "titre": "Panne et hors ligne"
+  }
 ]

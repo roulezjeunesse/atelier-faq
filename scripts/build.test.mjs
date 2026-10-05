@@ -644,7 +644,7 @@ test("categories.json du dépôt est valide", () => {
   const resultat = construire({ racine: DEPOT, dossier: path.join(DEPOT, "exemples") });
   assert.deepEqual(resultat.problemes.filter((p) => p.fichier === "categories.json"), []);
   const ids = JSON.parse(fs.readFileSync(path.join(DEPOT, "categories.json"), "utf8")).map((c) => c.id);
-  assert.deepEqual(ids, ["rendez-vous", "demandes", "clients", "factures", "reservation", "compte"]);
+  assert.deepEqual(ids, ["compte", "rendez-vous", "reservation", "clients", "factures", "depannage"]);
 });
 
 // ---------------------------------------------------------------------------
