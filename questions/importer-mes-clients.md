@@ -2,8 +2,8 @@
 question: Comment importer mes clients ?
 categorie: clients
 ordre: 1
-mots: import, csv, fichier, base, clients, fiches, doublon, tableur, excel
+mots: import, envoyer, fichier, carnet, clients, fiches, tableur, excel, csv
 ---
-Dans l’onglet **Clients**, utilisez **Importer ma base existante** avec un fichier CSV dont la première ligne porte les noms de colonnes. Colonnes reconnues : nom, email, téléphone, adresse, notes.
+Dans l’onglet **Clients**, descendez jusqu’à **Envoyer mon carnet de clients**, choisissez votre fichier tel qu’il est (tableur ou export d’un autre logiciel), puis appuyez sur **Envoyer mon carnet**.
 
-Une fiche qui a le même e-mail qu’une fiche existante la met à jour, sans doublon. Un rapport vous signale ce qui a été créé.
+Nous créons vos fiches clients à votre place, sous 2 jours ouvrés, et nous vous écrivons à l’adresse de votre compte quand c’est fait. Rien n’est ajouté avant notre passage, et vous pouvez continuer à utiliser l’application en attendant.
