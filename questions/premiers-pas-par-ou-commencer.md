@@ -10,4 +10,4 @@ Trois réglages suffisent pour démarrer, dans cet ordre, tous dans **Réglages*
 2. **Statut juridique** : à remplir avant votre première facture, pour les mentions légales.
 3. Le lien de votre page de réservation, en haut des **Réglages** : appuyez sur **Copier** et envoyez-le à vos clients.
 
-Le reste (catalogue, import de vos clients) peut attendre. Chaque réglage a sa question dans cette page : cherchez son nom ci-dessus.
+Le reste (catalogue, carnet de clients) peut attendre. Chaque réglage a sa question dans cette page : cherchez son nom ci-dessus.
