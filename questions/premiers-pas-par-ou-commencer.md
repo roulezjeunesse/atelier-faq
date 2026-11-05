@@ -2,12 +2,13 @@
 question: Par où commencer quand je viens de me connecter ?
 categorie: compte
 ordre: 0
-mots: premiers pas, démarrer, commencer, débuter, nouveau, configurer, installation, début
+mots: premiers pas, démarrer, commencer, débuter, nouveau, configurer, installation, début, zone, carte
 ---
-Trois réglages suffisent pour démarrer, dans cet ordre, tous dans **Réglages** :
+Ouvrez l’**Agenda** : la carte **Pour démarrer** vous attend en haut, avec quatre étapes. Chacune a son bouton, et elle se coche toute seule une fois faite.
 
-1. **Mes horaires** : tant qu’aucun jour n’est ouvert, personne ne peut réserver.
-2. **Statut juridique** : à remplir avant votre première facture, pour les mentions légales.
-3. Le lien de votre page de réservation, en haut des **Réglages** : appuyez sur **Copier** et envoyez-le à vos clients.
+1. **Votre zone** : sans elle, aucune demande ne peut arriver. Elle se règle dans **Réglages**, **Mon profil et ma zone**.
+2. **Vos horaires** : tant qu’aucun jour n’est ouvert, personne ne peut réserver.
+3. **Votre téléphone**, pour que vos clients puissent vous joindre.
+4. **Votre statut juridique**, à remplir avant votre première facture.
 
-Le reste (catalogue, carnet de clients) peut attendre. Chaque réglage a sa question dans cette page : cherchez son nom ci-dessus.
+Quand les quatre sont faites, la carte devient **Et maintenant ?** : vous y trouvez votre lien de réservation à partager, et ce qu’il reste à découvrir. Rien n’est obligatoire pour utiliser l’application, et **Ignorer** referme la carte.
