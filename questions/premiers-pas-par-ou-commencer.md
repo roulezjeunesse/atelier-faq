@@ -6,7 +6,7 @@ mots: premiers pas, démarrer, commencer, débuter, nouveau, configurer, install
 ---
 Ouvrez l’**Agenda** : la carte **Pour démarrer** vous attend en haut, avec quatre étapes. Chacune mène à son réglage, et se coche toute seule une fois faite.
 
-1. **Votre zone** : sans elle, aucune demande ne peut arriver. Elle se règle dans **Réglages**, **Mon profil et ma zone**.
+1. **Votre zone** : sans elle, aucune demande ne peut arriver. Elle se règle dans **Réglages**, **Mes lieux et horaires**, sous **Chez le client**.
 2. **Vos horaires** : tant qu’aucun jour n’est ouvert, personne ne peut réserver.
 3. **Votre téléphone**, pour que vos clients puissent vous joindre.
 4. **Votre statut juridique**, à remplir avant votre première facture.
