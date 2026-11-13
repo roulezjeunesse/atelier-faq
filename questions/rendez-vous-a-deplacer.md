@@ -1,9 +1,11 @@
 ---
-question: Que veut dire « À déplacer » sur un rendez-vous ?
+question: Un rendez-vous est marqué « À déplacer », que faire ?
 categorie: rendez-vous
 ordre: 4
-mots: à déplacer, conflit, lieu fermé, jour bloqué, garder, changer l’horaire, marqué
+mots: à déplacer, conflit, lieu fermé, jour bloqué, congés, exception, garder, changer l’horaire, marqué
 ---
-Un rendez-vous pris reste valable quand vos horaires changent, mais il peut ne plus tomber au bon moment : jour bloqué, lieu fermé ce jour-là ou à cette heure, ou un autre lieu à votre place. L’**Agenda** le marque alors **À déplacer**. Rien n’est annulé et votre client n’est pas prévenu.
+Un rendez-vous pris reste valable quand vos horaires changent, mais il peut ne plus tomber au bon moment : jour ou créneau bloqué, lieu fermé ce jour-là ou à cette heure, ou un autre lieu à votre place. Il est alors marqué **À déplacer**. Il n’est pas annulé, et votre client n’est pas prévenu.
 
-Ouvrez le rendez-vous. **Changer l’horaire** l’ouvre à la modification, et votre client reçoit alors son nouvel horaire. Si l’horaire vous convient malgré tout, **Garder ce rendez-vous** retire le marquage.
+Ouvrez-le. **Changer l’horaire** le décale, et votre client reçoit son nouvel horaire. Si l’horaire vous convient malgré tout, **Garder ce rendez-vous** retire le repère.
+
+Le nombre de rendez-vous concernés s’affiche sur l’**Accueil** et en haut de l’**Agenda**, avec la liste.
