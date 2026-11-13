@@ -6,7 +6,7 @@ mots: premiers pas, démarrer, commencer, débuter, nouveau, configurer, install
 ---
 L’application s’ouvre sur l’**Accueil** : la carte **Pour démarrer** vous attend en haut, avec quatre étapes. Chacune mène à son réglage, et se coche toute seule une fois faite.
 
-1. **Définir votre zone** : sans elle, aucune demande ne peut arriver. Elle se règle dans **Réglages**, **Mon profil et ma zone**.
+1. **Définir votre zone** : sans elle, aucune demande ne peut arriver. Elle se règle dans **Réglages**, **Mes lieux et horaires**, sous **Chez le client**.
 2. **Ouvrir vos horaires** : tant qu’aucun jour n’est ouvert, personne ne peut réserver.
 3. **Renseigner votre téléphone**, pour que vos clients puissent vous joindre.
 4. **Renseigner votre statut juridique**, à remplir avant votre première facture.
