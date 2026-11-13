@@ -6,6 +6,6 @@ mots: zone, rayon, kilomètres, supplément, déplacement, point de départ, dis
 ---
 Dans **Réglages**, ouvrez **Mes lieux et horaires**, puis **Chez le client**. Indiquez votre **Point de départ**, l’adresse d’où vous partez en tournée, puis votre **Zone** : un rayon en kilomètres et, si besoin, un supplément pour chaque zone plus large (jusqu’à quatre).
 
-Le champ **Zone affichée sur votre page** est seulement un texte pour vos clients. Il n’empêche personne de réserver : c’est le rayon qui compte.
+La phrase que lisent vos clients sur votre page, par exemple « Intervient à moins de 15 km de Paris », se met à jour toute seule d’après votre zone.
 
 Un lieu où vous recevez (magasin, marché) n’a pas de zone : le client vient à vous.
