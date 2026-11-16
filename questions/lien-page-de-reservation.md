@@ -8,4 +8,4 @@ Il est tout en haut de **Ma page de réservation**, dans **Réglages**. Appuyez 
 
 Si l’écran dit que votre page n’est pas encore en ligne, c’est que Roulez Jeunesse la publie avec votre fiche. Si elle tarde, utilisez **Envoyer une demande** en bas de cette page.
 
-![Le haut de Ma page de réservation : le lien de la page avec les boutons Copier, Ouvrir et Code à scanner, puis l’adresse affichée](images/ma-page-lien-reservation.png)
+![Le haut de Ma page de réservation : le lien de la page avec les boutons Copier, Ouvrir et Code à scanner, puis les coordonnées](images/ma-page-lien-reservation.png)
