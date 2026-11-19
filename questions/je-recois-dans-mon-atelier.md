@@ -10,4 +10,4 @@ Vous n’avez pas de zone à régler : vos clients viennent à vous, et ils rés
 
 Vous faites aussi des interventions chez vos clients ? Appuyez sur **Ajouter des déplacements** : vous indiquez alors votre point de départ, votre zone et vos horaires de tournée, comme un réparateur itinérant. Le client choisit ensuite entre votre atelier et chez lui.
 
-Vous vous êtes trompé de choix ? Dans **Mes lieux et horaires**, appuyez sur **Changer où je reçois mes clients** et choisissez à nouveau. Si le changement retire votre zone ou vos lieux, l’application vous le dit avant.
+Vous vous êtes trompé de choix ? Dans **Mes lieux et horaires**, appuyez sur **Changer**, à côté de **Où je reçois mes clients**, et choisissez à nouveau. Si le changement retire votre zone ou vos lieux, l’application vous le dit avant.
