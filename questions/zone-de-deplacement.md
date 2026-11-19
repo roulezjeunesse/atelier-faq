@@ -10,4 +10,4 @@ Dans **Réglages**, ouvrez **Mes lieux et horaires**, puis **Chez le client**. I
 
 Hors de votre zone, personne ne peut réserver en ligne. Votre client voit alors **Demander un devis**, qui lui ouvre une conversation avec vous, et **Appeler le réparateur**.
 
-Un lieu où vous recevez (magasin, marché) n’a pas de zone : le client vient à vous.
+Vous ne vous déplacez pas, vous recevez seulement à l’atelier, au magasin ou sur un marché ? Il n’y a pas de zone à régler : le client vient à vous. Voir « Je reçois dans mon atelier, comment je démarre ? ».
