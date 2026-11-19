@@ -9,3 +9,5 @@ Dans **Réglages**, ouvrez **Mes lieux et horaires**. À la question **Où recev
 Vous n’avez pas de zone à régler : vos clients viennent à vous, et ils réservent sur les créneaux de votre atelier.
 
 Vous faites aussi des interventions chez vos clients ? Appuyez sur **Ajouter des déplacements** : vous indiquez alors votre point de départ, votre zone et vos horaires de tournée, comme un réparateur itinérant. Le client choisit ensuite entre votre atelier et chez lui.
+
+Vous vous êtes trompé de choix ? Dans **Mes lieux et horaires**, appuyez sur **Changer où je reçois mes clients** et choisissez à nouveau. Si le changement retire votre zone ou vos lieux, l’application vous le dit avant.
