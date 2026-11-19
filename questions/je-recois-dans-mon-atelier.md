@@ -4,7 +4,7 @@ categorie: reservation
 ordre: 6
 mots: atelier, magasin, boutique, fixe, sans déplacement, itinérant, zone, ajouter des déplacements, démarrer
 ---
-Dans **Réglages**, ouvrez **Mes lieux et horaires**. À la question **Où recevez-vous vos clients ?**, choisissez **À l’atelier**. Donnez le nom et l’adresse de votre atelier, puis ses horaires, et appuyez sur **Enregistrer**.
+Dans **Réglages**, ouvrez **Mes lieux et horaires**. À la question **Où recevez-vous vos clients ?**, choisissez **À l’atelier**, ou **Les deux** si vous vous déplacez aussi. Donnez le nom et l’adresse de votre atelier, puis ses horaires, et appuyez sur **Enregistrer**.
 
 Vous n’avez pas de zone à régler : vos clients viennent à vous, et ils réservent sur les créneaux de votre atelier.
 
