@@ -4,7 +4,7 @@ categorie: reservation
 ordre: 3
 mots: horaires, jours, créneaux, fermé, ouvert, disponibilités, planning, heures, magasin, marché, lieu
 ---
-Dans **Réglages**, ouvrez **Mes lieux et horaires**. Sous **Chez le client**, ouvrez **Horaires**. Pour chaque jour, appuyez sur « Ajouter un créneau », indiquez l’heure de début et de fin, puis **Enregistrer**.
+Dans **Réglages**, ouvrez **Mes lieux et horaires**. Si vous vous déplacez, ouvrez **Horaires** sous **Chez le client**. Si vous recevez à l’atelier, ouvrez **Mon atelier** : ses horaires sont dedans. Pour chaque jour, appuyez sur « Ajouter un créneau », indiquez l’heure de début et de fin, puis **Enregistrer**.
 
 Vous recevez aussi dans un magasin ou sur un marché ? Appuyez sur **Ajouter un lieu** : chaque lieu a ses propres horaires, chaque semaine ou à des dates précises (un salon, une fête). Le client voit le lieu quand il choisit son créneau.
 
